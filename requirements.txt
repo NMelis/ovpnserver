@@ -1,0 +1,5 @@
+python-digitalocean==1.16.0
+scp==0.13.3
+loguru==0.5.3
+setuptools~=52.0.0
+paramiko==2.7.2
